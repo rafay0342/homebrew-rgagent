@@ -9,7 +9,7 @@ class Rgagent < Formula
   on_linux do
     on_intel do
       url "https://rafaygen.cloud/dl/rgagent/rgagent-1.0.0-linux-x64"
-      sha256 "ad87ae1180d97649e1eb8933a043d4edfde01ace07e02d41b33b267c36dd5631"
+      sha256 "20b36af23a0a1340fe27caf39c06680790fdc70d1e614490d3a8513728147278"
     end
   end
 
